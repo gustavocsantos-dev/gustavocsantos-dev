@@ -1,7 +1,7 @@
 # Olá! Meu nome é Gustavo Carvalho 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/gustavo-carvalho-desenvolvedor/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/](https://www.instagram.com/gustavoc.dev/))
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante da área de Tecnologia da Informação. Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e estudo **Desenvolvimento Web** por meio de cursos online e projetos práticos.
+Sou estudante da área de Tecnologia da Informação. Formado em **Análise e Desenvolvimento de Sistemas (ADS)** e estudo **Desenvolvimento Web** por meio de cursos online e projetos práticos.
 
 Tenho interesse em desenvolvimento front-end, back-end e em criar soluções que unam tecnologia e impacto real no dia a dia das pessoas.
 
